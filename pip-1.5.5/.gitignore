@@ -1,0 +1,13 @@
+MANIFEST
+pip.egg-info/*
+ScriptTest-*.egg
+virtualenv-*.egg
+mock-*egg
+dist/*
+docs/_build/*
+build/*
+*.pyc
+*.pyo
+*.~
+.tox
+
