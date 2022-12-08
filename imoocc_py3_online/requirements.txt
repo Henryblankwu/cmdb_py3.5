@@ -14,7 +14,7 @@ beautifulsoup4==4.4.0
 billiard==3.5.0.4
 bleach==2.0.0
 celery==4.2.0
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.11.2
 chardet==3.0.4
 configparser==3.5.0
